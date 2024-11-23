@@ -49,6 +49,9 @@ A comprehensive web-based application designed to manage retail inventory effici
 
 Explore the interactive dashboard here: [Retail Inventory Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmU3MWY5MmUtYzRhOS00OGU0LWJjMmQtNzkyMWI4OWJkMmQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+![image](https://github.com/user-attachments/assets/2721bc43-f95f-4377-9927-d3762b9d38be)
+
+
 ## Future Enhancements
 
 - Integration with external APIs for real-time sales data.
